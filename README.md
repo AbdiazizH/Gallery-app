@@ -52,8 +52,8 @@ Python3.8
 Django 1.11.17
 Heroku
 
-#Author
-Abd Hussein
+# Author
+Abdiaziz Hussein
 
 License
 Copyright (c) 2021 AbdiazizH
