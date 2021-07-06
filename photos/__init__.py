@@ -34,20 +34,23 @@ Now Migrate
 
 python manage.py migrate
 
-Run the application
+6.Run the application
 python manage.py runserver
 
-Running the application
-python manage.py server 8. Testing the application
+7.Running the application
+python manage.py server 
+
+8. Testing the application
 
 python manage.py test
 
 Technology used
-Python3.6
-Django 1.11
+Python3.8
+Django 1.11.17
 Heroku
+
 Author
-Abdisamad Mohamed
+Abdiaziz Hussein
 
 License
-Copyright (c) 2021 Abdisamad
+Copyright (c) 2021 AbdiazizH
