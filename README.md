@@ -11,7 +11,9 @@ View different photos that interest them
 Click a single image to expand it and view the details of that photo
 Search for different categories
 View photos based on the location they were taken.
-Setup and Installation
+
+# Setup and Installation
+
 To get the project .......
 
 1.Cloning the repository:
