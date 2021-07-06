@@ -50,7 +50,7 @@ Django 1.11.17
 Heroku
 
 Author
-Abdiaziz Hussein
+Abd Hussein
 
 License
 Copyright (c) 2021 AbdiazizH
