@@ -55,4 +55,4 @@ Heroku
 Abdiaziz Hussein
 
 License
-Copyright (c) 2021 Abdiaz
+Copyright (c) 2021 Abdia
