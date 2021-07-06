@@ -52,7 +52,7 @@ Python3.8
 Django 1.11.17
 Heroku
 
-Author
+#Author
 Abd Hussein
 
 License
