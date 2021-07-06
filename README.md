@@ -46,7 +46,7 @@ python manage.py server
 
 python manage.py test
 
-Technology used
+#Technology used
 Python3.8
 Django 1.11.17
 Heroku
